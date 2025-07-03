@@ -1,0 +1,26 @@
+[
+  {
+    "id": "a208407a-5ac0-4e90-8502-5ece4983c35b",
+    "title": "Book Title",
+    "author": "Author Name",
+    "genre": "Genre",
+    "publishedYear": 2024,
+    "userId": "tarmesh@123gmail.com"
+  },
+  {
+    "id": "19579dae-f5a6-4037-8bed-466d58588c99",
+    "title": "Times Ahead",
+    "author": "Tarmesh",
+    "genre": "Story",
+    "publishedYear": 2024,
+    "userId": "tarmesh@123gmail.com"
+  },
+  {
+    "id": "f2880f38-6e68-4148-bbab-563e16e56b76",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Fiction",
+    "publishedYear": 1988,
+    "userId": "tarmesh@123gmail.com"
+  }
+]
